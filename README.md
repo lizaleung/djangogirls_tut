@@ -1,2 +1,2 @@
 # tut1
-READ ME
+following djangogirls tutorial
